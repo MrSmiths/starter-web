@@ -1,0 +1,14 @@
+('#flamborough').hover(function(){
+        var flamboroughCoords = document.getElementById("flamborough").coords.split(',');
+        context.strokeStyle = "rgba(193, 66, 66, 0.4)";
+        context.fillStyle = "rgba(193, 66, 66, 0.4)";
+        context.lineWidth = 1;
+        context.beginPath();
+        context.moveTo(flamboroughCoords[0],flamboroughCoords[1]);
+        for (x = 2, y = 3; x < flamboroughCoords.length-1, y < flamboroughCoords.length; x+=2, y+=2) {
+            context.lineTo(flamboroughCoords[x],flamboroughCoords[y]);
+        }
+        context.lineTo(flamboroughCoords[0],flamboroughCoords[1]);
+        context.stroke();
+        context.fill();
+    });

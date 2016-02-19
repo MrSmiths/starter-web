@@ -9,6 +9,7 @@
 
 	github
 	Jmi    <name>
+	GPL
 
 # TECHNOLOGY COLOPHON
 

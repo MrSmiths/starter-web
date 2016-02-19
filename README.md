@@ -9,8 +9,3 @@ Sample website with plenty of files for demos
 ## GARBAGE
 ewoijfoidjs'odijc'sdijvdsoa
 
-## Garbage 2
-
-sdfsdfdsf
-
-SDFSDFSD

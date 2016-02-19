@@ -7,4 +7,8 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## GARBAGE
-ewoijfoidjs'odijc'sdijvdsoj
+ewoijfoidjs'odijc'sdijvdsoa
+
+## Garbage 2
+
+sdfsdfdsf

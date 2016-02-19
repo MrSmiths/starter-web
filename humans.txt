@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+	Jmi    <name>
 
 # TECHNOLOGY COLOPHON
 
